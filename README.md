@@ -1,1 +1,1 @@
-# Python-Functions-for-Data-Science
+# Python Functions for Data Science
